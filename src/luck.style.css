@@ -1,0 +1,33 @@
+.luck-display{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.luck-item{
+    color: white;
+    text-shadow: 2px 2px tomato;
+    border-radius: 50%;
+    padding: 2em;
+    text-align: center;
+}
+
+.item1-color{
+    background: linear-gradient(to left, rgb(0, 255, 221), rgb(255, 217, 0));;
+}
+
+.item2-color{
+    background: linear-gradient(to left, rgb(234, 0, 255), rgb(255, 217, 0));
+}
+
+.item3-color{
+    background: linear-gradient(to left, rgb(255, 0, 34), rgb(0, 255, 64));
+}
+
+.item4-color{
+    background: linear-gradient(to left, rgb(43, 255, 0), rgb(255, 217, 0));
+}
+
+.item5-color{
+    background: linear-gradient(to left, rgb(0, 255, 234), rgb(255, 102, 0));
+}

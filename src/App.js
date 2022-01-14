@@ -1,23 +1,22 @@
-import logo from './logo.svg';
+import React,{useState} from 'react';
+import Luck from './luck.component';
+import Result from './result.component';
+
 import './App.css';
 
+
 function App() {
+  
+  const[display, setDisplay] = useState(true)
+
+  const showLuckDisplay = () => {
+    console.log("clicking");
+    setDisplay(!display);
+  }
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {!display && <Luck showLuckDisplay={showLuckDisplay} />}
+      {display && <Result showLuckDisplay={showLuckDisplay} />}
     </div>
   );
 }

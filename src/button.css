@@ -1,0 +1,16 @@
+.btn{
+    background: chartreuse;
+    border-radius: 3rem;
+    padding: 0.5em 1em;
+    text-align: center;
+    width: 10em;
+    margin: 4em auto;
+    cursor: pointer;
+    color: chocolate;
+    font-size: 1.5rem;
+    font-weight: bold;
+    border: 0 transparent;
+    display: flex;
+    justify-content: center;
+    text-shadow: 2px 2px darkmagenta;
+}
