@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddbf1d57ddf82177a75d8e0f7af07cd3",
+    "revision": "bd7bca4bfd9f120327c32d325687111b",
     "url": "/lucky-dude/index.html"
   },
   {
-    "revision": "720b4a2a807505e3b7a2",
-    "url": "/lucky-dude/static/css/main.2b5061a3.chunk.css"
+    "revision": "779eaacdbaa62337c454",
+    "url": "/lucky-dude/static/css/main.334012d8.chunk.css"
   },
   {
     "revision": "92bdc81ad2f4d6e474dc",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lucky-dude/static/js/2.ca3064fe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "720b4a2a807505e3b7a2",
+    "revision": "779eaacdbaa62337c454",
     "url": "/lucky-dude/static/js/main.2fbba230.chunk.js"
   },
   {
