@@ -23,5 +23,10 @@ export const luckItems = [
         id: 5,
         item: "iPhone 13",
         bgColor: "item5-color"
+    },
+    {
+        id: 6,
+        item: "ice-cream",
+        bgColor: "item4-color"
     }
 ];

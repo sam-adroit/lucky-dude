@@ -7,7 +7,7 @@ import './App.css';
 
 function App() {
   
-  const[display, setDisplay] = useState(true)
+  const[display, setDisplay] = useState(false)
 
   const showLuckDisplay = () => {
     console.log("clicking");
