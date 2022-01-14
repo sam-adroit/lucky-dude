@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lucky-dude/static/css/main.2b5061a3.chunk.css",
+    "main.js": "/lucky-dude/static/js/main.2fbba230.chunk.js",
+    "main.js.map": "/lucky-dude/static/js/main.2fbba230.chunk.js.map",
+    "runtime-main.js": "/lucky-dude/static/js/runtime-main.0322c127.js",
+    "runtime-main.js.map": "/lucky-dude/static/js/runtime-main.0322c127.js.map",
+    "static/js/2.ca3064fe.chunk.js": "/lucky-dude/static/js/2.ca3064fe.chunk.js",
+    "static/js/2.ca3064fe.chunk.js.map": "/lucky-dude/static/js/2.ca3064fe.chunk.js.map",
+    "index.html": "/lucky-dude/index.html",
+    "precache-manifest.4b170112b96b734f3370059993ccca4d.js": "/lucky-dude/precache-manifest.4b170112b96b734f3370059993ccca4d.js",
+    "service-worker.js": "/lucky-dude/service-worker.js",
+    "static/css/main.2b5061a3.chunk.css.map": "/lucky-dude/static/css/main.2b5061a3.chunk.css.map",
+    "static/js/2.ca3064fe.chunk.js.LICENSE.txt": "/lucky-dude/static/js/2.ca3064fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0322c127.js",
+    "static/js/2.ca3064fe.chunk.js",
+    "static/css/main.2b5061a3.chunk.css",
+    "static/js/main.2fbba230.chunk.js"
+  ]
+}
